@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank QA_Cards_API "
+  contactDetails:
+    name: "Roman Svyshch Cards"
+    email: "svychroman@gmail.com"
+  onCallSupport:
+    -(380)996681573

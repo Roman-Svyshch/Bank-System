@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank accounts "
+  contactDetails:
+    name: "Roman Svyshch"
+    email: "svychroman@gmail.com"
+  onCallSupport:
+    -(380)996681573

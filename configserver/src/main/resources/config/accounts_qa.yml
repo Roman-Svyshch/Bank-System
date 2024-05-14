@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+
+accounts:
+  message: "Welcome to EazyBank QA_accounts_API "
+  contactDetails:
+    name: "Roman Svyshch QA"
+    email: "svychroman@gmail.com"
+  onCallSupport:
+    -(380)996681573
