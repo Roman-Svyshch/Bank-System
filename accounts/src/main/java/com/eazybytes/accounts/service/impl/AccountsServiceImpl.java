@@ -32,7 +32,7 @@ public class AccountsServiceImpl implements IAccountsService {
     private  CustomerRepository customerRepository;
 
 
-
+//create account
     @Override
     public void createAccount(CustomerDto customerDto) {
         Customer customer = CustomerMapper.mapToCustomer(customerDto, new Customer());

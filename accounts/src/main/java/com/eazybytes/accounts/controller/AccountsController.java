@@ -139,7 +139,7 @@ public class AccountsController {
 
 
     @Operation(
-            summary = "DELETE Account REST API",
+            summary = "DELETE Accounts REST API",
             description = "REST API to create new Customer & Account inside EazyBank"
     )
     @ApiResponses({
